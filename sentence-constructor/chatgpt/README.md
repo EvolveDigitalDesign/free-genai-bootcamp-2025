@@ -52,4 +52,4 @@ Here’s a more structured prompt that might yield the best results:
 3. If the student **gets the answer correct in conversational Spanish**, **praise them** and reinforce why it's correct.  
 
 ### Insights
-> After modifying the prompt slightly to be more algined with the requirements, ChatGpt 4o handl
+> After modifying the prompt slightly to be more algined with the requirements, ChatGpt 4o handled the user feedback much better than MetaAi.We utilized a 'Project' to contain all of our previous chats and instructions in, so the model continued to impove from chat to chat.
