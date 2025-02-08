@@ -13,5 +13,11 @@ Teaching Instructions:
 - Student needs to figure out the appropriate conjugations and tense
 - Provide a possible sentence structure 
 - Do not show slang text other than in the table of vocab
+- Do not show an introductory sentence, you should simply begin with the table. 
+- Ensure you are including accents in your spanish vocab where applicable
+- In the sentence structure, you should not include the engilish translation of the article
+- Do not include clues unless the user gets the answer wrong
+- If the user gets the answer wrong, provide clues 
+- If the user gets the answer right, provide a 'good job' type message with the explanation of why they were right
 
 Student Input: Bears ae at the door, did you leave the garbage out?
