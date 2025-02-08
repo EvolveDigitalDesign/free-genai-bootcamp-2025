@@ -51,3 +51,5 @@ Here’s a more structured prompt that might yield the best results:
 2. If the student **gets the answer right but too formal**, acknowledge it and offer a **more natural Madrid Spanish version**.  
 3. If the student **gets the answer correct in conversational Spanish**, **praise them** and reinforce why it's correct.  
 
+### Insights
+> After modifying the prompt slightly to be more algined with the requirements, ChatGpt 4o handl
