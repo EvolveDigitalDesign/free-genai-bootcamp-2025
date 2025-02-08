@@ -32,7 +32,9 @@
 ### Student Input:  
 **"Bears are at the door, did you leave the garbage out?"**  
 
-### Good Response
+### EXAMPLES
+
+## Good Response
 # Score 
 - 8
 # Reason for deductions 
