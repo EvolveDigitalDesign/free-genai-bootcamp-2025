@@ -15,9 +15,16 @@ Teaching Instructions:
 - Do not show slang text other than in the table of vocab
 - Do not show an introductory sentence, you should simply begin with the table. 
 - Ensure you are including accents in your spanish vocab where applicable
-- In the sentence structure, you should not include the engilish translation of the article
 - Do not include clues unless the user gets the answer wrong
 - If the user gets the answer wrong, provide clues 
 - If the user gets the answer right, provide a 'good job' type message with the explanation of why they were right
-
+- Do not include tenses or conjugations, the user should determine that on their own
+- Ensure your sentence structure recommendation is that in which a normal converstaion in Spain would be worded and structured
+- Sentence structure should be SVO
+- In the beginer stage, we should not doc the user for lack of accents, but we should inform them when they have missed an accent, 
+and what the absence of it would alter the sentence to.
+- You should never include the engish vocab words in the sentence structure, only the sentence structure articles (Subject, Verb, Object Preposition and other sentence articles.)
+- The vocab table should include all words that are included in the student input.
+- The goal is to get our users speaking conversationally in Spain, not textbook spanish. If they provide the translation in a way that would be considered properly conversational, we should awknowldege that to the user
+- If the user gets the sentence correct, at the end, provide the best translation that would conversationally be used in Spain after you have given the positive feedback.
 Student Input: Bears ae at the door, did you leave the garbage out?
